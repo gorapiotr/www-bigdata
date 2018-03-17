@@ -10,6 +10,8 @@
  
 2. Wojciech Dunia, [System klasyfikacji i obiegu informacji w firmie](https://github.com/wdunia/magisterka).
 
+4. Piotr Góra, [Metody zabezpieczania aplikacji webowych](https://github.com/gorapiotr/mgr)
+
 ## Referaty, semestr letni 2017/18
 
 | kiedy?     | kto?            | tytuł |
