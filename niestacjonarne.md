@@ -12,6 +12,8 @@
 
 4. Piotr Góra, [Metody zabezpieczania aplikacji webowych](https://github.com/gorapiotr/mgr)
 
+3. Maciej Marchwiński, [Technologia Blockchain na potrzeby Uniwersytetu Gdańskiego](https://github.com/KaKaril/Praca-Magisterska-Marchwinski).
+
 ## Referaty, semestr letni 2017/18
 
 | kiedy?     | kto?            | tytuł |
